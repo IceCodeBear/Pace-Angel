@@ -1,5 +1,5 @@
-UserName = 'jiewu97@gmail.com';
-passWord = 'pandajing';
+UserName = 'user email';
+passWord = 'user password';
 setpref('Internet','E_mail',UserName);
 setpref('Internet','SMTP_Server','smtp.gmail.com');
 setpref('Internet','SMTP_Username',UserName);
